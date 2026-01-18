@@ -1,0 +1,5 @@
+default=0
+timeout -1
+
+title Hydra OS
+kernel /boot/kernel.elf
